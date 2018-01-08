@@ -1,19 +1,19 @@
-C	M	M	C	M
+C	M	M	C	U+0000
 .	.	,	-	
-A	box	is  	A  	place
-.	with	,	A	limit
-.	like	the	-	space
-B tween zero	,	1	digit
-T	age	end	K				outside	of the box 	
-&& 	stay 	commit	-	it
-||  	you 	'll  	B 	t	
+A	box	is  	A  	۩
+.	with	,	A	≐
+.	like	the	-	〿
+B tween zero	,	1	٠١ ०१ ০১ ੦੧ ૦૧ ୦୧ ௧ ౦౧
+T	age	end	K	⊙𝍋ꂂ	
+&& 	stay 	commit	-	Ị†
+||  	you 	'll  	B 	ט	
 .	rapped	and	- 	never
 .	heard	add m it it
-U	'll 	never	B	a 
+U	'll 	never	B	Ḁ 
 0 	or 	a	1		
-U	'll 	never	B  ==   E 	= mc2
+U	'll 	never	B  ==   𖣈
 4	ever 	gone  	-	
-4	ever	be 	A	double
+4	ever	be 	A	UU
 UU	B.	tweeeen 2two2
 4 	ever	,	B	false
 && 	never	.	B 	TRUE
@@ -23,7 +23,7 @@ Mmmmmmmmp	act	B	fore
 U	are	gun	-	
 U	have	to	kill 	-yourself	
 &	be	come	a	zero
-.	.	the word will  otice
+.	.	the word will otice
 & 	make 	you 	A 	hero	
 ∞	point	you	R	finger
 2	the	sky	∞	say
@@ -34,7 +34,7 @@ HE 	who 	has    n0	fatherORson
 HE 	who 	made 	.	every	
 ^	.	,	&	low
 HE 	who 	made 	.	everyThingFlow 		
-.	but	never th!nk	that.the.one.is.a.he
+.	but	never th!nk	that.the.one.is.a 𐩠
 .	thing   flow	.	but
 Nnnnnnnnnnnnnnnnever	-	think.that.the
 1 	is	a	HE	
