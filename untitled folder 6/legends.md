@@ -1,5 +1,6 @@
 # Abraham and Satoshi Nakamoto - Sacrifices Shape Legends
 
+![OIG](https://github.com/tamimat/-repository-name/assets/621045/eff517aa-bcf7-45f9-8665-5a0a3d266bd1)
 
 *A while ago I mentioned to a friend that I see a similarity between Satoshi Nakamoto's choice to stay anonymous and sacrifice his name with the Prophet Abraham who sacrificed his son who was his name bearer. My friend found that comparison very intriguing.*
 
